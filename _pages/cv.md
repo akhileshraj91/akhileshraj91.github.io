@@ -8,38 +8,72 @@ redirect_from:
 ---
 
 {% include base_path %}
+  <ul>
+    <li><a href="{{ site.baseurl }}/files/Resume.pdf" download>Download CV</a></li>
+  </ul>
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+---
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+# **Education**
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Ph.D. in Electrical Engineering (Specialization: Control Systems), Vanderbilt University, 2025 (expected)
+* M.Tech in Electrical Engineering, IIT Kanpur, 2016
+* B.Tech in Electronics and Instrumentation, CET Trivandrum, 2013
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
+
+# **Work Experience**
+
+* Fall 2021 - Present: Graduate Research Assistant
+
+  * Vanderbilt University
+  * Duties include: Designing and implementing a cyber-physical testbed for OT network emulation, developing Modbus TCP communication between SCADA controllers and field devices, and integrating AI agents for anomaly detection.
+  * Supervisor: Dr. Aniruddha Gokhale
+
+* Fall 2023: W\.J. Cody Associate
+
+  * Argonne National Lab
+  * Duties include: Optimizing edge computational devices in HPC, developing a data processing algorithm, and publishing work at the IPDPS PAISE-2025 workshop.
+  * Supervisor: Dr. Swann Perarnau
+
+* Summer 2023: Student Sub-Contractor
+
+  * Argonne National Lab
+  * Duties include: Extending internship work to multiple applications, focusing on application-agnostic research, and improving power efficiency using reinforcement learning.
+  * Supervisor: Dr. Swann Perarnau
+
+* Summer 2022: W\.J. Cody Associate
+
+  * Argonne National Lab
+  * Duties include: Optimizing HPC node performance and power consumption, developing reinforcement learning-based solutions, and testing on Skylake processors using Intel RAPL technology.
+  * Supervisor: Dr. Swann Perarnau
+
+* Summer 2021: Project Associate
+
+  * Indian Institute of Science, Bangalore
+  * Duties include: Developing a reinforcement learning-based intersection management algorithm for traffic control and parallelizing Python simulations for multi-core processors.
+  * Supervisor: Dr. Pavan Kumar Thallapragada
+
+---
+
+# **Skills**
+
+* **Reinforcement Learning**
+
+  * Control of HPC devices
+  * Anomaly detection in cyber-physical systems
+* **HPC Optimization**
+
+  * Energy-efficient computing strategies
+  * Resource allocation for green computing
+* **Programming Languages**
+
+  * Python
+  * MATLAB
+  * Shell Script
+
+---
+
 
 Publications
 ======
@@ -62,3 +96,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
