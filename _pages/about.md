@@ -23,6 +23,15 @@ Research Interests
 * **High-Performance Computing (HPC)**: Research on power caps, energy management, and the optimization of resource usage in large-scale computational systems.
 * **Cybersecurity**: Developing advanced testbeds for testing cybersecurity agents and mitigation strategies in OT networks.
 
+Projects
+======
+* **DropVault Tech**: Freelaced as prototype engineer to develop smart and safe delivery boxes.
+
+<div class="youtube-video" style="max-width: 560px; margin: auto;">
+  <iframe width="560" height="314" src="https://www.youtube.com/embed/Fqi3OPoQaj8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 Contact Information
 ======
 - Email: akhilesh.raj@vanderbilt.edu
