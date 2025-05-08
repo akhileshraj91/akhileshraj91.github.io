@@ -25,10 +25,23 @@ Research Interests
 
 Projects
 ======
-* **DropVault Tech**: Freelaced as prototype engineer to develop smart and safe delivery boxes.
+* **DropVault Tech**: Freelanced as prototype engineer to develop smart and safe delivery boxes.
 
 <div class="youtube-video" style="max-width: 560px; margin: auto;">
   <iframe width="560" height="314" src="https://www.youtube.com/embed/Fqi3OPoQaj8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+* **Power Grid**: Demonstration of the RL testbeds.
+
+<div class="youtube-video" style="max-width: 560px; margin: auto;">
+  <iframe width="560" height="314" src="https://www.youtube.com/embed/ghW2aiTo6Lw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+* **Chemical Plant**: Demonstration of the RL testbeds.
+
+<div class="youtube-video" style="max-width: 560px; margin: auto;">
+  <iframe width="560" height="314" src="https://www.youtube.com/embed/sq04Nds-1eY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
